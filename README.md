@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boroboatza
+- 👋 Hi, I’m @boroboatza or ChicoMalo
 - 👀 I’m interested in learning programming languages and technologies
 - 🌱 I’m currently learning C++, C# Python, JavaScript
 - 💞️ I’m looking to change my job and work as a programmer
