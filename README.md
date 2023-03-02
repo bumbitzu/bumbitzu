@@ -1,7 +1,10 @@
 # Hi there, I'm Adrian 👋
- - I'm a junior developer with a passion for coding and a solid foundation in C++, C# and .NET. <br>
- - I'm always eager to learn new things and take on new challenges.
-
+- I started learning this language a year ago and have made significant progress during this time. <br>
+- To me, C++ is more than a programming language. It is an important part of my life, and when I spend my time learning and practicing C++, I feel happy and fulfilled, and now I want to change the career to follow my passion. <br>
+- It wasn't always easy. At first, C++ seemed so complicated and intimidating, but I never gave up. With a lot of persistence and patience, I was able to grasp the concepts and develop the skills needed to create C++ projects. <br>
+- In conclusion, I am proud of my achievements in C++ and grateful that I had the courage to begin this journey. <br>
+- I will definitely continue to learn and develop C++ projects Besides C++.<br>  
+- I also managed to learn C# and .Net. I want to learn other important languages and technologies <br>
 ## Skills
 - C++
 - C#
