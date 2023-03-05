@@ -17,6 +17,7 @@ With this goal :dart: in mind, I continued to work hard, building new projects a
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,github,ps" />
   </a>
 </p>
+
 ## Projects
 ### Here are a few of the projects that I'm have completed recently and posted:
 * [MagiConvert](https://github.com/boroboatza/MagiConvert)
@@ -28,5 +29,5 @@ With this goal :dart: in mind, I continued to work hard, building new projects a
 ### If you're interested in collaborating or learning more about my work, please feel free to reach out. You can find me on:
 
 * [YouTube](https://www.youtube.com/@datahub4326)
-* Mail: adrian.bumbu.91@gmail.com <br>
+* [Twitter](https://twitter.com/Borobotza)
 ### Let's build something great together!
