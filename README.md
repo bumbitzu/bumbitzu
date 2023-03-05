@@ -17,7 +17,7 @@ With this goal :dart: in mind, I continued to work hard, building new projects a
 - .NET
 ## Projects
 ### Here are a few of the projects that I'm have completed recently and posted:
-
+* [MagiConvert](https://github.com/boroboatza/MagiConvert)
 * [AutoTyper](https://github.com/boroboatza/AutoTyper)
 * [BigFloat class](https://github.com/boroboatza/BigFloat)
 * [Big_Integers_Class](https://github.com/boroboatza/Big_Integers_Class)
