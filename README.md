@@ -12,9 +12,11 @@ With this goal :dart: in mind, I continued to work hard, building new projects a
 
 :pray: Thank you for taking the time to read my biography. I look forward to connecting with fellow programmers, :handshake: collaborating on projects, and learning from each other.
 ## Skills
-- C++
-- C#
-- .NET
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,github,ps" />
+  </a>
+</p>
 ## Projects
 ### Here are a few of the projects that I'm have completed recently and posted:
 * [MagiConvert](https://github.com/boroboatza/MagiConvert)
