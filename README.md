@@ -1,5 +1,5 @@
 # Hello, World! I'm Adrian 👋
-:heart_on_fire: I am a passionate developer. A year and a half ago, I discovered the beauty of programming and fell in love with the power and versatility of C++. Since then, I have been on a journey to sharpen my skills, learn new concepts, and build exciting projects
+:heart_on_fire: I am a passionate developer. Two years ago, I discovered the beauty of programming and fell in love with the power and versatility of C++. Since then, I have been on a journey to sharpen my skills, learn new concepts, and build exciting projects
 
 🛰️ My journey started with a simple "Hello, World!" program, but it quickly evolved into something much more significant.
 I spent countless :hourglass_flowing_sand: hours :film_strip: watching online tutorials , :open_book:reading books , and :heavy_check_mark: solving programming challenges.
