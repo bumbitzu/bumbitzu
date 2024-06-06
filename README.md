@@ -14,7 +14,7 @@ Now, I am eager to take my skills to the next level and explore new horizons. I 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,github,ps" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,visualstudio,vscode,github,ps" />
   </a>
 </p>
 
