@@ -14,7 +14,13 @@ Now, I am eager to take my skills to the next level and explore new horizons. I 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,html,css,js,react,visualstudio,vscode,github,ps" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,cs,html,md,css,js" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=dotnet,bootstrap,sass,nodejs,express,react,redux,unity"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,ps"/>
   </a>
 </p>
 
