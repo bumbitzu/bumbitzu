@@ -20,7 +20,7 @@ Now, I am eager to take my skills to the next level and explore new horizons. I 
     <br>
     <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,ps"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github,git,figma,ps"/>
   </a>
 </p>
 
